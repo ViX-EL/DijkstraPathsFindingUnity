@@ -12,6 +12,7 @@
 6. Для каждого соседа N вашего текущего узла C: добавьте текущее расстояние C к весу ребра, соединяющего C-N. Если оно меньше текущего расстояния N, установите его как новое текущее расстояние N.
 7. Отметьте текущий узел C как посещенный.
 8. Если есть непосещённые узлы, перейдите к шагу 5.
+
 Источник: https://www.codingame.com/playgrounds/1608/shortest-paths-with-dijkstras-algorithm/dijkstras-algorithm
 
 ![image](https://user-images.githubusercontent.com/44582410/232083952-ae93ab8a-30a3-49c7-b9fc-8b44664c06a4.png)
